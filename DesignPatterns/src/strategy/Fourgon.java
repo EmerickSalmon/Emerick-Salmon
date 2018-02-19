@@ -1,5 +1,6 @@
 package strategy;
 
+//Voiture s'appelant fourgon
 public class Fourgon extends Voiture{
 	
 	@Override

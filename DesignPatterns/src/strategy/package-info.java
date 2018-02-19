@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author emeri
- *
- */
-package strategy;
