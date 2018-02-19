@@ -21,7 +21,7 @@ Il controle le declanchement des action dans le projet
 	* Il servira d'intermediaire entre le *model* et la *vue*, c'est lui qui decidera qui doit faire quoi
 	* Il contiendra aussi une classe implementant l'interface ActionListener qui ecoutera le bouton de la vue
 
-![UML de classe MVC](https://github.com/EmerickSalmon/Emerick-Salmon/tree/master/DesignPatterns/src/mvc/Diagrammedeclasses.png)
+![UML de classe MVC](https://github.com/EmerickSalmon/Emerick-Salmon/blob/master/DesignPatterns/src/mvc/Diagrammedeclasses.png)
 
 
 ##### Procédure #####

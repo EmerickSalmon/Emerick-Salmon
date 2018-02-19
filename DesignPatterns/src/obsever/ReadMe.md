@@ -20,7 +20,7 @@ De plus, grace a ce pattern il est facile d'ajouter ou enlever des observateurs
 	* Observateur
 		* rafraichir(Observable o) *appelé par la méthode avertirObservateur de l'interface Observable*
 
-![UML de classe Observer](https://github.com/EmerickSalmon/Emerick-Salmon/tree/master/DesignPatterns/src/obsever/DiagrammeDeClasses.png)
+![UML de classe Observer](https://github.com/EmerickSalmon/Emerick-Salmon/blob/master/DesignPatterns/src/obsever/DiagrammeDeClasses.png)
 
 ##### Procédure #####
 1. On crée l'objet osbervé
