@@ -4,9 +4,9 @@
 
 Organiser son code
 Le pattern MVC veut dire Model Vue Controleur
-Il consiste donc a decoupé le code en 3 parties majeur et a limiter les dépendance entre eu
-Seul le controleur connait le model et la vue, il sert d'intermediaire entre eu.
-Il controle le declanchement des action dans le projet
+Il consiste donc a decouper le code en 3 parties majeures et a limiter les dépendances entre elles.
+Seul le controleur connait le model et la vue, il sert d'intermediaire entre elles.
+Il contrôle le declenchement des actions dans le projet
 
 ## Trois classes ##
 
@@ -15,7 +15,7 @@ Il controle le declanchement des action dans le projet
 
 2. Vue
 	* Comme son nom l'indique c'est la partie graphique du projet
-	* Elle nje comporte des des objets graphique des getteur et setteur
+	* Elle ne comporte que des objets graphiques, des getteur et setteur
 
 3. Controleur
 	* Il servira d'intermediaire entre le *model* et la *vue*, c'est lui qui decidera qui doit faire quoi

@@ -2,25 +2,25 @@
 
 # Design Pattern #
 
-Design Pattron patron conception sont des méthode utlisé pour programmé le code le rendre plus clair ou dinamique ou plus sûr.
-Voici les differents design pattern contenu et expliqué dans ce repo.
+Design Pattron patron conception sont des méthodes utlisées pour organiser le code, le rendre plus clair, ou dynamique, ou plus sûr.
+Voici les differents design pattern contenus et expliqués dans ce repo.
 
 
 ## Observer ##
 
-Permet à autent d'objets que l'on veut d'observé un autre objet. D'ajouter ou de supprimer des observateurs pendant l'execution du programme et d'avertir tout les observateurs d'un changement d'états
+Permet à autant d'objets que l'on veut d'observer un autre objet, d'ajouter ou de supprimer des observateurs pendant l'execution du programme et d'avertir tous les observateurs d'un changement d'état
 [Voir...](https://github.com/EmerickSalmon/Emerick-Salmon/tree/master/DesignPatterns/src/obsever)
 
 ------------------------------------------------------------
 
 ## MVC ##
 
-Model.Vue.Controler Découper et organisé son code de manière a tout controler depuis une classe *le controleur*, la vue ne contient que l'algorithme d'affichage *Swing* dans notre cas, le model contient le coeur du programme *les calcul* ici on ce contentras d'un converssion de texte minuscule vers majuscule
+Model.Vue.Controler Découper et organiser son code de manière a tout contrôler depuis une classe *le controleur*, la vue ne contient que l'algorithme d'affichage *Swing*. Dans notre cas, le model contient le coeur du programme *les calcul*. Ici on se contentra d'une conversion de texte minuscule vers majuscule
 [Voir...](https://github.com/EmerickSalmon/Emerick-Salmon/tree/master/DesignPatterns/src/mvc)
 
 ************************************************************
 
 ## Strategy ##
 
-Encapsuler ses algorithmes et les rendre dynamique. Interchanger les algorithmes en cous d'execution du programme.
+Encapsuler ses algorithmes et les rendre dynamiques. Interchanger les algorithmes en cours d'execution du programme.
 [Voir...](https://github.com/EmerickSalmon/Emerick-Salmon/tree/master/DesignPatterns/src/strategy)
